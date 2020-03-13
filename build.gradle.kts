@@ -1,5 +1,7 @@
+
+
 plugins {
-    kotlin("jvm")// version "1.3.70"
+    kotlin("jvm") version "1.3.70"
 }
 
 group = "space.iseki"
